@@ -31,7 +31,7 @@
 | ⚙️ **Backend** | Python • FastAPI • REST APIs • GraphQL |
 | ☁️ **Cloud & DevOps** | AWS • Docker • CI/CD |
 | 🧪 **Testing** | Jest • React Testing Library • Cypress |
-| 🏢 **Domains** | Healthcare • E-Commerce • Insurance • PropTech |
+| 🏢 **Domains** | E-Commerce • Insurance • PropTech |
 | 📍 **Location** | Bengaluru, India |
 | 🚀 **Status** | Immediate Joiner |
 
