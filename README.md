@@ -1,14 +1,15 @@
+```markdown
 <div align="center">
 
-# Hi 👋 I'm Mohammed Musharaf
+# 👋 Hi, I'm Mohammed Musharaf
 
-### Senior Frontend Engineer | React.js | Next.js | TypeScript
+### Frontend-Focused Full Stack Engineer | React.js • Next.js • TypeScript • Python • FastAPI
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=2500&pause=1200&center=true&vCenter=true&width=900&lines=Frontend+Engineer;React.js+Developer;Next.js+Developer;TypeScript+Developer;Frontend-Focused+Full+Stack+Engineer" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=2500&pause=1200&center=true&vCenter=true&width=900&lines=Frontend-Focused+Full+Stack+Engineer;React.js+%26+Next.js+Developer;TypeScript+%26+JavaScript+Engineer;Python+%2B+FastAPI+Developer;Building+Scalable+Enterprise+Applications;Immediate+Joiner" />
 
 <br/>
 
-### 🚀 Building scalable web applications for modern businesses.
+### 🚀 Building scalable, performant, and user-centric web applications.
 
 <br/>
 
@@ -22,186 +23,272 @@
 
 <div align="center">
 
-| Professional Profile | Details |
+| Profile | Details |
 |:---|:---|
-| 💼 **Experience** | 4+ Years |
-| 🎯 **Core Expertise** | React.js • Next.js • TypeScript |
-| 🏢 **Industry Experience** | Healthcare • E-Commerce • Enterprise Applications |
-| 🚀 **Availability** | Immediate Joiner |
-| 🌍 **Work Preference** | Remote • Hybrid • Relocation |
-| 📍 **Current Location** | Bengaluru, India |
+| 💼 **Experience** | **4.4+ Years** |
+| 👨‍💻 **Current Role** | Frontend-Focused Full Stack Engineer |
+| 🎯 **Primary Stack** | React.js • Next.js • TypeScript |
+| ⚙️ **Backend** | Python • FastAPI • REST APIs • GraphQL |
+| ☁️ **Cloud & DevOps** | AWS • Docker • CI/CD |
+| 🧪 **Testing** | Jest • React Testing Library • Cypress |
+| 🏢 **Domains** | Healthcare • E-Commerce • Insurance • PropTech |
+| 📍 **Location** | Bengaluru, India |
+| 🚀 **Status** | Immediate Joiner |
 
 </div>
+
+---
 
 # 💡 About Me
 
-Frontend-Focused Full Stack Engineer with 4+ years of experience building scalable, production-grade web applications across healthcare, e-commerce, and enterprise environments.
+Frontend-Focused Full Stack Engineer with **4.4+ years** of experience designing, developing, and maintaining scalable enterprise web applications across **Healthcare, E-Commerce, Insurance, and PropTech** domains.
 
-I specialize in the React ecosystem, leveraging React.js, Next.js, TypeScript, Redux Toolkit, and modern frontend architecture patterns to build performant, maintainable, and user-centric applications.
+I specialize in building modern frontend applications using **React.js, Next.js, TypeScript, Redux Toolkit, and Tailwind CSS**, with a strong focus on reusable component architecture, performance optimization, responsive UI development, and clean engineering practices.
 
-My work focuses on reusable component systems, scalable frontend architecture, performance optimization, responsive user experiences, and clean engineering practices that enable long-term product growth.
+Beyond the frontend, I contribute across the full stack using **Python, FastAPI, GraphQL, REST APIs, PostgreSQL, MongoDB, AWS, Docker, and CI/CD**, enabling end-to-end product delivery from development through production deployment.
 
-Alongside frontend development, I contribute across the full stack using Node.js, Express.js, MongoDB, GraphQL, REST APIs, and JWT-based authentication workflows.
+I'm passionate about building maintainable software that balances exceptional user experience, engineering quality, and long-term scalability.
 
 ---
 
-# 🚀 Why Teams Hire Me
+# 🚀 What I Bring
 
 <table>
 <tr>
+
 <td width="50%">
 
-✅ Built and maintained enterprise-scale applications
+✅ 4.4+ years building production-grade applications
 
-✅ Developed reusable component architectures
+✅ Enterprise project experience
 
-✅ Improved application performance and user experience
+✅ Modern React & Next.js ecosystem
+
+✅ Reusable component architecture
+
+✅ TypeScript-first development
+
+✅ Responsive & accessible UI development
 
 </td>
 
 <td width="50%">
 
-✅ Collaborated with cross-functional teams
+✅ REST API & GraphQL integrations
 
-✅ Delivered production-ready features end-to-end
+✅ Performance optimization & Core Web Vitals
 
-✅ Strong ownership mindset
+✅ Authentication & Role-Based Access Control
+
+✅ Automated testing (Jest, RTL & Cypress)
+
+✅ AWS, Docker & CI/CD
+
+✅ Agile & Cross-functional collaboration
 
 </td>
+
 </tr>
 </table>
 
 ---
 
-# 🏗 Technology Ecosystem
+# 💻 Tech Stack
+
+## 🎨 Frontend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,sass,materialui" />
+
+</p>
+
+## ⚙️ Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python,nodejs,express,fastapi" />
+
+</p>
+
+## 🗄 Database
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb" />
+
+</p>
+
+## ☁️ Cloud & DevOps
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github" />
+
+</p>
+
+## 🧪 Testing
+
+- Jest
+- React Testing Library
+- Cypress
+
+## 🔗 APIs & State Management
+
+- GraphQL
+- Apollo Client
+- REST APIs
+- Redux Toolkit
+- Context API
+
+## 🛠 Developer Tools
+
+- VS Code
+- GitHub Copilot
+- Cursor AI
+- Claude AI
+- Jira
+
+---
+
+# 🏢 Enterprise Experience
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+## 🏥 Healthcare
+
+### Healthgrades
+
+Building healthcare applications used for discovering doctors, hospitals, healthcare providers, and treatment information.
+
+### Contributions
+
+- Built scalable React.js & Next.js applications
+- Developed reusable TypeScript components
+- Implemented SSR & SSG
+- Integrated GraphQL & REST APIs
+- Improved SEO & Core Web Vitals
+- Optimized frontend performance
+
+</td>
+
+<td width="50%">
+
+## 🛒 E-Commerce
+
+### Costco
+
+Worked on enterprise-scale e-commerce applications supporting authentication, product discovery, shopping experiences, and order workflows.
+
+### Contributions
+
+- Developed reusable UI architecture
+- Integrated GraphQL & REST APIs
+- Built authentication workflows
+- Improved rendering performance
+- Delivered production-ready features
+- Enhanced user experience
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+## 🛡 Insurance Platform
+
+### Moomoo
+
+Enterprise insurance platform supporting customer onboarding, policy management, claims processing, and payment tracking.
+
+### Contributions
+
+- Built React.js & Next.js frontend
+- Developed Python FastAPI services
+- Designed GraphQL & REST APIs
+- Implemented RBAC authentication
+- Optimized PostgreSQL performance
+- Developed automated testing
+
+</td>
+
+<td width="50%">
+
+## 🏢 PropTech Platform
+
+Property management platform supporting listings, leasing, tenant onboarding, rental payments, and maintenance workflows.
+
+### Contributions
+
+- Built scalable full-stack modules
+- Designed reusable UI components
+- Developed REST APIs & GraphQL services
+- Implemented secure authentication
+- Optimized PostgreSQL queries
+- Deployed using AWS & Docker
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# ⚙️ Engineering Principles
+
+- Clean Architecture
+- Component Reusability
+- Performance First
+- API-First Development
+- Responsive Design
+- Accessibility
+- Secure Authentication
+- Test-Driven Quality
+- Production Readiness
+- Continuous Learning
+
+---
+
+# 🚀 Currently Exploring
+
+- React 19
+- Next.js 15
+- Python FastAPI
+- AI-Assisted Development
+- Enterprise Frontend Architecture
+- Scalable Design Systems
+- Performance Engineering
+
+---
+
+# 📊 GitHub Stats
 
 <div align="center">
 
-| 🎨 Frontend | ⚙️ State & API | 🔧 Backend | 🗄 Database | 🚀 Performance |
-|:---:|:---:|:---:|:---:|:---:|
-| ![React](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black) | ![RTK Query](https://img.shields.io/badge/RTK_Query-764ABC?style=for-the-badge&logo=redux) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js) | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb) | ![SSR](https://img.shields.io/badge/SSR-111827?style=for-the-badge) |
-| ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs) | ![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge) | ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql) | ![SSG](https://img.shields.io/badge/SSG-111827?style=for-the-badge) |
-| ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript) | ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql) | ![REST API](https://img.shields.io/badge/REST_APIs-2563EB?style=for-the-badge) |  | ![SEO](https://img.shields.io/badge/SEO-16A34A?style=for-the-badge) |
-| ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss) | ![Apollo](https://img.shields.io/badge/Apollo_Client-311C87?style=for-the-badge&logo=apollographql) | ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens) |  | ![Code Splitting](https://img.shields.io/badge/Code_Splitting-F59E0B?style=for-the-badge) |
-| ![Material UI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui) | ![Formik](https://img.shields.io/badge/Formik-2563EB?style=for-the-badge) |  |  | ![Lazy Loading](https://img.shields.io/badge/Lazy_Loading-DC2626?style=for-the-badge) |
+![](https://github-readme-stats.vercel.app/api?username=mdmusharaf0305-wq&show_icons=true&theme=transparent)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=mdmusharaf0305-wq&theme=transparent)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mdmusharaf0305-wq&layout=compact&theme=transparent)
 
 </div>
 
-<div align="center">
-
-### Architecture Flow
-
-```text
-Frontend → State & API Layer → Backend Services → Database → Performance & Delivery
-```
-
-
-
-# 🌟 Enterprise Experience
-
-<table>
-<tr>
-
-<td width="50%">
-
-### 🏥 Healthgrades
-
-**Healthcare Discovery Platform**
-
-Helping millions of users discover doctors, hospitals, healthcare providers, and treatment information through data-driven digital experiences.
-
-#### Key Contributions
-
-✔ Built scalable React.js & Next.js applications
-
-✔ Implemented SSR & SSG rendering strategies
-
-✔ Developed reusable TypeScript component systems
-
-✔ Integrated GraphQL & REST APIs
-
-✔ Optimized SEO and frontend performance
-
-✔ Built secure healthcare workflows
-
-#### Tech Stack
-
-`React.js` `Next.js` `TypeScript`
-
-`GraphQL` `Apollo Client`
-
-`Redux Toolkit`
-
-`Node.js` `Express.js`
-
-`MongoDB` `PostgreSQL`
-
-</td>
-
-<td width="50%">
-
-### 🛒 Costco
-
-**Enterprise E-Commerce Platform**
-
-Large-scale e-commerce ecosystem supporting product discovery, authentication, shopping experiences, and order management workflows.
-
-#### Key Contributions
-
-✔ Developed scalable frontend applications
-
-✔ Built reusable TypeScript UI systems
-
-✔ Integrated GraphQL & REST services
-
-✔ Improved rendering performance and scalability
-
-✔ Implemented authentication workflows
-
-✔ Delivered production-ready features
-
-#### Tech Stack
-
-`React.js` `Next.js` `TypeScript`
-
-`GraphQL` `Apollo Client`
-
-`Redux Toolkit`
-
-`Node.js` `Express.js`
-
-`MongoDB` `PostgreSQL`
-
-</td>
-
-</tr>
-</table>
-
 ---
-
-# 🎯 Currently Working On
-
-⚡ Advanced Next.js Architectures
-
-⚡ Frontend Performance Optimization
-
-⚡ Scalable Design Systems
-
-⚡ Enterprise SaaS Applications
-
-
 
 # 🤝 Let's Connect
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/musharraf-mohammed-374940212/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/musharraf-mohammed-374940212)
 
-[![Email](https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:musharaff.dev@gmail.com)
-
-<br/>
-
-### Open to opportunities where great products meet great engineering.
+[![Email](https://img.shields.io/badge/Email-musharraf.rpy@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:musharraf.rpy@gmail.com)
 
 </div>
 
@@ -209,6 +296,9 @@ Large-scale e-commerce ecosystem supporting product discovery, authentication, s
 
 <div align="center">
 
-### Building modern web experiences one scalable application at a time.
+### ⭐ Open to Frontend Engineer, React.js, Next.js, Frontend-Focused Full Stack Engineer, and Python Full Stack opportunities.
+
+### Building scalable, performant, and production-ready web applications.
 
 </div>
+```
