@@ -41,7 +41,7 @@
 
 # 💡 About Me
 
-Frontend-Focused Full Stack Engineer with **4.4+ years** of experience designing, developing, and maintaining scalable enterprise web applications across **Healthcare, E-Commerce, Insurance, and PropTech** domains.
+Frontend-Focused Full Stack Engineer with **4.4+ years** of experience designing, developing, and maintaining scalable enterprise web applications across **E-Commerce, Insurance, and PropTech** domains.
 
 I specialize in building modern frontend applications using **React.js, Next.js, TypeScript, Redux Toolkit, and Tailwind CSS**, with a strong focus on reusable component architecture, performance optimization, responsive UI development, and clean engineering practices.
 
@@ -156,25 +156,6 @@ I'm passionate about building maintainable software that balances exceptional us
 <table>
 
 <tr>
-
-<td width="50%">
-
-## 🏥 Healthcare
-
-### Healthgrades
-
-Building healthcare applications used for discovering doctors, hospitals, healthcare providers, and treatment information.
-
-### Contributions
-
-- Built scalable React.js & Next.js applications
-- Developed reusable TypeScript components
-- Implemented SSR & SSG
-- Integrated GraphQL & REST APIs
-- Improved SEO & Core Web Vitals
-- Optimized frontend performance
-
-</td>
 
 <td width="50%">
 
