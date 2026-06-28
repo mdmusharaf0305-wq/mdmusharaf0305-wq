@@ -159,29 +159,6 @@ I'm passionate about building maintainable software that balances exceptional us
 
 <td width="50%">
 
-## 🛒 E-Commerce
-
-### Costco
-
-Worked on enterprise-scale e-commerce applications supporting authentication, product discovery, shopping experiences, and order workflows.
-
-### Contributions
-
-- Developed reusable UI architecture
-- Integrated GraphQL & REST APIs
-- Built authentication workflows
-- Improved rendering performance
-- Delivered production-ready features
-- Enhanced user experience
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
 ## 🛡 Insurance Platform
 
 ### Moomoo
