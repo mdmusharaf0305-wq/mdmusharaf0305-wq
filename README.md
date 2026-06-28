@@ -1,4 +1,4 @@
-```markdown
+
 <div align="center">
 
 # 👋 Hi, I'm Mohammed Musharaf
@@ -301,4 +301,4 @@ Property management platform supporting listings, leasing, tenant onboarding, re
 ### Building scalable, performant, and production-ready web applications.
 
 </div>
-```
+
